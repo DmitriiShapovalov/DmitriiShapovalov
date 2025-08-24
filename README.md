@@ -1,16 +1,16 @@
-## Hi there 👋
+## Всем привет! 👋
 
-<!--
-**DmitriiShapovalov/DmitriiShapovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Меня зовут Дмитрий Шаповалов
 
-Here are some ideas to get you started:
+Начинающий Data Scientist. Во время обучения в Яндекс Практикуме выполнил 14 учебных проектов: 
+ - 7 по классическому ML,
+ - 1 проект по Computer Vision,
+ - 1 проект по NLP, 1 по SQL
+ - 4 аналитических проекта
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Технологии**: Jupyter Notebook/Lab, Python, Pandas, Numpy, os, re, SQL, Seaborn, Matplotlib, Phik,
+Scikit-learn, Imblearn, CatBoost, LightGBM, ТensorFlow/Keras, PyTorch, NLTK, Transformers, Scipy,
+statsmodels, Optuna, SHAP
+
+**Контакты:**
+[Telegram](https://t.me/Dmitry19199)
